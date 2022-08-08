@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey!!
+
+Somos o grupo 4 ⚡
+
+Bruno Cordeiro, Filipe Cunha, Geovana Oliveira, [Luis Eduardo](https://github.com/luiseduardobastos), [Vitor Matheus](https://github.com/vito0182)
 
 <!--
 **grupo-4-aut/grupo-4-aut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
