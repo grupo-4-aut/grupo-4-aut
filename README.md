@@ -6,6 +6,6 @@ Bruno Cordeiro, Filipe Cunha, Geovana Oliveira, [Luis Eduardo](https://github.co
 
 <div align="center">
   <a href="https://github.com/grupo-4-aut">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grupo-4-aut&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=grupo-4-aut&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grupo-4-aut&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=grupo-4-aut&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
