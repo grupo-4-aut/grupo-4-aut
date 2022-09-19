@@ -2,7 +2,7 @@
 
 Somos o grupo 4 ⚡
 
-Bruno Cordeiro, [Filipe Cunha](https://github.com/filipetech0x1), Geovana Oliveira, [Luis Eduardo](https://github.com/luiseduardobastos), [Vitor Matheus](https://github.com/vito0182)
+[Bruno Cordeiro](https://github.com/BrunoRibeiro-P), [Filipe Cunha](https://github.com/filipetech0x1), Geovana Oliveira, [Luis Eduardo](https://github.com/luiseduardobastos), [Vitor Matheus](https://github.com/vito0182)
 
 <div align="left">
   <a href="https://github.com/grupo-4-aut">
